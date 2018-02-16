@@ -9,9 +9,6 @@ description: >-
 
 ```yaml
 type: PureMultipleChoiceExercise
-
-xp: 
-
 key: 9265394464
 ```
 
@@ -23,13 +20,9 @@ instructions
 `@hint`
 hint
 
-
-
-
-
 `@possible_answers`
-- 1
-- [2]
+- this is first
+- [this is the correct one]
 
 `@feedbacks`
 - feedback 1

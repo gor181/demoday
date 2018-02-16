@@ -5,28 +5,29 @@ description: >-
 
 
 ---
-## new title
+
+
+
+---
+## Pure MCE title
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: 9265394464
+key: ed47680610
+xp: 50
+skills: 2
 ```
 
-this is an assignment
-
-`@instructions`
-instructions
-
-`@hint`
-hint
+hello are you there?
 
 `@possible_answers`
-- this is first
-- [this is the correct one]
+- 1
+- [2]
+
+`@hint`
+this is a hint
 
 `@feedbacks`
-- feedback 1
-- feedback 2
-
-
+- feedback not ok
+- feedback ok
 

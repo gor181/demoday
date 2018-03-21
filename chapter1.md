@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -14,26 +16,28 @@ key: df13b02b06
 ```
 
 
-`@instructions`
 
-`@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: undefined
+
+key: bc85086d7e
 ```
 
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+456e30781826174f58f5fe74260288a0

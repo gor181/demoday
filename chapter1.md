@@ -72,3 +72,31 @@ key: fba5f9275e
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: f55c92fd45
+```
+
+above me there will be a lot of white space!
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
